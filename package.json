@@ -1,0 +1,11 @@
+{
+  "name": "2020webzemiapp",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morihi/2020WebZemiApp.git"
+  },
+  "dependencies": {
+    "@vue/cli": "^4.5.12"
+  }
+}
