@@ -72,13 +72,28 @@ export default {
       items: [
         {
           icon: 'mdi-apps',
-          title: 'Welcome',
+          title: 'Home',
           to: '/',
         },
         {
-          icon: 'mdi-chart-bubble',
-          title: 'Inspire',
-          to: '/inspire',
+          icon: 'mdi-cash',
+          title: '報酬',
+          to: '/reward',
+        },
+        {
+          icon: 'mdi-toilet',
+          title: 'お気に入りのトイレ',
+          to: '/favo',
+        },
+        {
+          icon: 'mdi-account',
+          title: '登録情報変更',
+          to: '/info',
+        },
+        {
+          icon: 'mdi-file-find',
+          title: 'トイレを探す',
+          to: '/find',
         },
       ],
       miniVariant: false,
