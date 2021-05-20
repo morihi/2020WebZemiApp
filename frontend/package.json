@@ -16,11 +16,6 @@
     "*.{js,vue}": "eslint",
     "*.{css,vue}": "stylelint"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
   "dependencies": {
     "core-js": "^3.9.1",
     "nuxt": "^2.15.3"
